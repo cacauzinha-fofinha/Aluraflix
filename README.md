@@ -1,5 +1,4 @@
-<header># Aluraflix</header> 
- 
+<header>ALURAFLIX</header>
 
 
 ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?
